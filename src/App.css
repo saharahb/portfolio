@@ -369,8 +369,8 @@ h3 {
 
 /* About Style Starts */
 .about--section {
-  display: grid;
-  padding: 150px 85px;
+  display: flex;
+  padding: 100px 85px;
   align-items: center;
   gap: 114.6px;
   grid-template-columns: repeat(2, 1fr);
@@ -380,6 +380,7 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 90px 10px;
 }
 
 .about--section--img > img {

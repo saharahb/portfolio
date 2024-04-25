@@ -22,7 +22,9 @@ export default function AboutMe() {
             projects. In my free time you can either find me with my nose in a
             book, on a run, or in the front row at a concert!
           </p>
-          <p>Thanks for checking out my website!</p>
+          <p className="hero--section--description">
+            Thanks for checking out my website!
+          </p>
         </div>
       </div>
     </section>
