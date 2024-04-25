@@ -502,6 +502,7 @@ h3 {
 .footer--logo {
   width: 40%;
   height: 40%;
+  align-self: center;
 }
 
 .footer--items > ul {
