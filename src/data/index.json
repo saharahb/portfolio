@@ -30,48 +30,22 @@
       "id": "1",
       "src": "./img/beeFit-design.png",
       "title": "beeFit",
-      "description": "A workout tracking app built using SwiftUI for a 24-hour hackathon.",
+      "description": "An iOS app built using SwiftUI that integrates fitness plans with a retail rewards system.",
       "link": "https://github.com/Weenawibowo/beeFit"
     },
     {
       "id": "3",
       "src": "./img/project3-sb.png",
       "title": "Swipe Bright",
-      "description": "Front-end development for hackathon",
+      "description": "Full-stack web app that allows users to swipe and match with their peers for personalized tutoring services.",
       "link": "https://github.com/lilyschen/SwipeBright"
     },
     {
       "id": "2",
       "src": "./img/project2-rr.png",
       "title": "Reader's Room",
-      "description": "Java GUI for logging books",
+      "description": "A Java GUI where users can log books to create their own personal library.",
       "link": "https://github.com/saharahb/readers-room"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Blank blank",
-      "author_name": "Person 1",
-      "author_designation": "Workplace"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Blank blank",
-      "author_name": "Person 2",
-      "author_designation": "Volunteer Job"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Blank blank",
-      "author_name": "Person 3",
-      "author_designation": "School"
     }
   ]
 }
