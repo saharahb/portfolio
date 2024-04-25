@@ -11,7 +11,7 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            Computer Science Student at UBC.
+            Computer Science Student at UBC
             <br /> Bachelor of Science in Biology
           </p>
         </div>
