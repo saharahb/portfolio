@@ -268,9 +268,9 @@ h3 {
 
 .hero--section-description {
   color: var(--darkgreen);
-  font: 22px;
+  font: 24px;
   font-weight: 400;
-  line-height: 45px;
+  line-height: 36px;
 }
 
 .hero--section--img {
@@ -372,7 +372,7 @@ h3 {
   display: flex;
   padding: 100px 75px;
   align-items: center;
-  gap: 114.6px;
+  gap: 90px;
   grid-template-columns: repeat(2, 1fr);
 }
 
