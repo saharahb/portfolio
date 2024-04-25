@@ -20,26 +20,9 @@ export default function AboutMe() {
           <p className="hero--section--description">
             Outside of academics, I enjoy attending hackathons and building cool
             projects. In my free time you can either find me with my nose in a
-            book, on a run, or in the front row at a concert! Thanks for
-            checking out my website and feel free to contact me at_
-            <a
-              href="https://github.com/saharahb"
-              className="navbar--content"
-              target="_blank"
-              rel="noreferrer"
-            >
-              saharahb19@gmail.com
-            </a>
-            _or connect with me on_
-            <a
-              href="https://www.linkedin.com/in/saharah-bains-942290273/"
-              className="navbar--content"
-              target="_blank"
-              rel="noreferrer"
-            >
-              _LinkedIn.
-            </a>
+            book, on a run, or in the front row at a concert!
           </p>
+          <p>Thanks for checking out my website!</p>
         </div>
       </div>
     </section>
