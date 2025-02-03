@@ -9,13 +9,17 @@ export default function AboutMe() {
           <h1 className="skills--section--heading">About Me</h1>
           <p className="about--section-description">
             I'm a computer science student located in Vancouver, BC who is
-            seeking Fall 2024 internships. I am currently completing my second
-            Bachelor's Degree in Computer Science at the University of British
-            Columbia, in the BCS program. I graduated with a Bachelor of Science
-            in Biology in May of 2023 and I worked in genetics research for over
-            a year before discovering my love for tech. I have a passion for
-            lifelong learning and I look forward to making meaningful
-            contributions to the tech industry!
+            seeking software or data internships. I currently work as a Data
+            Coordinator for the UBC Faculty of Medicine Digital Solutions team,
+            where I develop data collection tools and perform data analysis. I
+            also have professional experience in web development, creating a
+            custom website for a small business using React. I am studying to
+            complete my second Bachelor's Degree in Computer Science at the
+            University of British Columbia, in the BCS program. I graduated with
+            a Bachelor of Science in Biology in May of 2023 and I worked in
+            genetics research for over a year before deciding to follow my
+            passion for tech. I have a love for lifelong learning and I look
+            forward to making meaningful contributions to the tech industry!
           </p>
           <p className="about--section-description">
             Outside of academics, I enjoy attending hackathons and building cool

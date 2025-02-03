@@ -3,45 +3,52 @@
     {
       "id": "1",
       "src": "./img/frontend2.png",
-      "title": "Front-End",
-      "description": "Experienced in Front End web development using React, HTML, CSS, and JavaScript"
+      "title": "Web Development",
+      "description": "Experienced in web development using JavaScript, HTML, CSS, React, NodeJS, and Express."
     },
     {
       "id": "2",
       "src": "./img/backend.png",
-      "title": "Back-End",
-      "description": "Proficiency in Back End web developement using Java, Python, and NodeJS"
+      "title": "Object Oriented Programming",
+      "description": "Strong understanding of OOP principles and design patterns, with experience Java, Python, and C++"
     },
     {
       "id": "3",
-      "src": "./img/design.png",
-      "title": "UI & UX Design",
-      "description": "Passion for designing eye-catching user interfaces using Figma and CSS"
+      "src": "./img/professional.png",
+      "title": "Data Management",
+      "description": "Skilled in data analysis using SQL and Python. Proficient in data transformation and visualization using Excel and PowerBI."
     },
     {
       "id": "4",
-      "src": "./img/professional.png",
-      "title": "Professional Skills",
-      "description": "Strong communication, impeccable attention to detail, and problem-solving skills."
+      "src": "./img/design.png",
+      "title": "UI & UX Design",
+      "description": "Passion for designing eye-catching user interfaces using Figma and CSS"
     }
   ],
   "portfolio": [
     {
       "id": "1",
+      "src": "./img/yada1.png",
+      "title": "Yada",
+      "description": "AI-Powered Flashcard Generator that uses OpenAI API to convert notes into question-answer flashcards.",
+      "link": "https://github.com/michellejslei/Yada"
+    },
+    {
+      "id": "2",
       "src": "./img/beeFit-design.png",
       "title": "beeFit",
       "description": "An iOS app built using SwiftUI that integrates fitness plans with a retail rewards system.",
       "link": "https://github.com/Weenawibowo/beeFit"
     },
     {
-      "id": "3",
+      "id": "4",
       "src": "./img/project3-sb.png",
       "title": "Swipe Bright",
       "description": "Full-stack web app that allows users to swipe and match with their peers for personalized tutoring services.",
       "link": "https://github.com/lilyschen/SwipeBright"
     },
     {
-      "id": "2",
+      "id": "3",
       "src": "./img/project2-rr.png",
       "title": "Reader's Room",
       "description": "A Java GUI where users can log books to create their own personal library.",
